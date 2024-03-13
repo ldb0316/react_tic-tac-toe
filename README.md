@@ -1,3 +1,6 @@
+# 리액트 기초 연습
+리액트 기초 연습을 위한 tic-tac-toe 게임 제작
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
